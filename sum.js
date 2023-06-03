@@ -26,5 +26,6 @@ const fizzbuzz = (num) => {
     }
 }
 
+//THIS IS A SUM!
 
 module.exports = fizzbuzz;
