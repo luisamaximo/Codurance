@@ -1,2 +1,2 @@
 # Codurance
-Katas resolved during Codurance sessions
+Katas resolved during Codurance sessions every Thursday night.
